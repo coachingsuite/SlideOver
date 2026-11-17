@@ -1,0 +1,10 @@
+# build output
+.build/
+build/
+.swiftpm/
+*.dmg
+
+# local logs (debug.log can contain window titles)
+*.log
+
+.DS_Store
